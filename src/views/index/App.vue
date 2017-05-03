@@ -7,6 +7,7 @@
 import vhead from '../../components/common/Head'
 import vfoot from '../../components/common/Foot'
 import vindex from '../../components/index/Index'
+// Vue.use(Pagination)
 export default {
 	components: {
       // 可以以key-value的形式注册组件, 此时挂载点的名字就是key

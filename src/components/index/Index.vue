@@ -10,10 +10,13 @@
         <h1 v-text="msg"></h1>
         <div v-for="item in proList.data" v-text="item.name"></div>
         <img src="../../assets/img/1.png" alt="">
+  </el-pagination>
     </div>
+     
 </template>
 <script>
-    import Api from '../../api/api.js'
+    import Api from '../../api/api.js'   
+
     export default {
         //获取从父组件传过来的数据
 		//props: {

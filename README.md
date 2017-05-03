@@ -1,6 +1,6 @@
 # vue-lyc-demo
 
-基于vue2.0的vue-cli改造的vue多页面应用脚手架，并集成jquery库。
+基于vue1.0的vue-cli改造的vue多页面应用脚手架，并集成jquery库。
 
 ## 构建步骤
 
